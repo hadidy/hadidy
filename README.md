@@ -1,3 +1,9 @@
+<div align="left">
+  <img height="200" src="./pic/IMG_8008.jpg"  />
+</div>
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -19,7 +25,7 @@
 
 ###
 
-<h2 align="left">I code with Typescript and javascript</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
