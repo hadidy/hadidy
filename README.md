@@ -1,4 +1,4 @@
-<div align="left">
+<div align="right">
   <img height="200" src="./IMG_8008.jpg"  />
 </div>
 
